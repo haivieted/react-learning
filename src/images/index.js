@@ -6,4 +6,7 @@ import shareWhite from './share-white.svg'
 import starWhite from './star-white.svg'
 import twitterWhite from './twitter-white.svg'
 import facebookWhite from './facebook-white.svg'
-export {worldWhite, linkedinWhite, twitterWhite, shareWhite, starWhite, pinWhite, pinterestWhite, facebookWhite} 
+import logoColor from './logo-color.png'
+import parallax from './parallax-9.jpg'
+
+export {worldWhite, linkedinWhite, twitterWhite, shareWhite, starWhite, pinWhite, pinterestWhite, facebookWhite, logoColor, parallax} 
